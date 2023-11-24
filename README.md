@@ -53,6 +53,9 @@ Module commands
 	info    <module>      Get information about an available module.
 	back                  Move back from the current context.
 ```
+## Current modules 📋
+` exploit/windows/whatsapp/session_hijacking ` 
+` exploit/android/whatsapp/grabber_files `   
 ## How to download 💡
 **You can download whspdefendor directly by saying** <br/><br/>
 ` pip install -r requirements.txt `
